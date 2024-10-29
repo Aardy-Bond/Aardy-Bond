@@ -238,7 +238,26 @@ function App() {
         <div className="footer-content">
             <h2 className="footer-title">About Storacha Vault</h2>
             <p className="footer-text">
-            Storacha Skeleton Vault is a Halloween-themed decentralized storage application built for the Storacha Halloween Hackathon 2024. The app enables users to securely upload files ("skeletons") into a decentralized storage network while enforcing access control through an Ethereum smart contract on the Sepolia testnet. With a spooky interface and seamless integration with MetaMask, Storacha Skeleton Vault combines the power of Web3 storage with blockchain-based access control, ensuring only authorized users can upload and manage data. It’s a fast, secure, and festive solution for storing “skeletons” in the Web3 closet!
+            💀 Decentralized File Storage on Storacha: Forget dusty closets and cluttered hard drives. With the Skeleton Vault, you can safely upload files (we call them “skeletons”) and store them in Storacha's secure, decentralized hot storage network.
+<br></br></p>
+<p>
+👻 Access Control with Ethereum: Thanks to our Ethereum-based smart contract, only those brave enough to unlock the vault (and have your permission) can retrieve files. The project is built on HTML, CSS, and JavaScript to ensure eerie compatibility with web browsers, making it both fast and frightful.
+<br></br></p>
+<p>
+🦴 MetaMask Integration: What’s a vault without security? Use MetaMask to manage your keys, authorize access, and securely interact with the Ethereum Sepolia testnet. All transactions happen right through your MetaMask wallet, ensuring a smooth and secure experience.
+<br></br></p>
+<p>
+🎉 Features Summary:
+<br></br></p>
+<p>
+Decentralized, Blockchain-Powered Storage: Storacha stores your files with resilience and speed. Upload your skeletons, and they’ll be encrypted and distributed across a decentralized network!
+Smart Contract Access Control: Built with Solidity, our smart contract restricts access to authorized users only. Through MetaMask, you grant permissions and control who can enter your spooky data vault.<br></br></p>
+<p>
+User-Friendly HTML/CSS/JavaScript Interface: A hauntingly simple UI built for all web browsers. Select your files, click upload, and witness the magic as your files become part of the blockchain underworld!
+Experience the Storacha Skeleton Vault this Halloween and make your secrets unbreakable, unforgettable, and undead.
+<br></br></p>
+<p>
+P.S.: Only the brave need apply. 😈
             </p>
             <div className="footer-animations">
                 <div className="bat-container">
