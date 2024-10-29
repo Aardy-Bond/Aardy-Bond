@@ -3,6 +3,23 @@
 
 Storacha Skeleton Vault is a decentralized file storage application built for the **Storacha Halloween Hackathon 2024**. The project leverages **Storacha's blazing-fast decentralized storage** and **Ethereum Sepolia testnet** for secure, verifiable access control. Inspired by the Halloween theme, the spooky-themed interface allows users to upload their "skeletons" (files) securely into decentralized storage, accessible only through proper permissions granted via Ethereum smart contracts.
 
+Storacha is the backbone of the **Storacha Skeleton Vault**, providing a decentralized, resilient, and high-speed storage solution that fits perfectly with the project’s Halloween-inspired theme of securely storing files (or "skeletons") beyond traditional means. Here’s a breakdown of how Storacha is used and highlighted within the project:
+
+### Key Uses of Storacha in the Project
+
+1. **Decentralized File Storage**: Storacha’s decentralized network handles the actual storage of uploaded files, ensuring they are encrypted, safely distributed, and always retrievable. When users upload their files, Storacha processes these files by assigning unique, immutable identifiers, making it possible to retrieve them securely whenever needed.
+
+2. **Data Resilience and Security**: Storacha’s infrastructure is designed to keep files safe from both central server failures and unauthorized access. This aligns with the spooky, “untouchable” theme of storing skeletons safely, ensuring that files aren’t only secure but also resistant to deletion or modification by unauthorized users.
+
+3. **Integration with Ethereum for Access Control**: By combining Storacha with Ethereum smart contracts, users control who can access each file directly from the blockchain. The Storacha platform works seamlessly with the **MetaMask wallet** for authentication, enabling users to authorize and restrict access based on permissions set in the Ethereum Sepolia testnet.
+
+4. **Halloween-Themed Storage Interface**: Storacha’s decentralized storage adds depth to the Halloween theme by offering fast, decentralized “skeleton” storage, where users can store their files confidently in a spooky, reliable storage network, highlighted through a hauntingly simple interface built with **HTML, CSS, and JavaScript**.
+
+### Highlighted Storacha Advantages
+
+Storacha’s **speed, security, and verifiability** make it the perfect solution for a decentralized storage project focused on user-controlled access. By leveraging Storacha, this project emphasizes Storacha's hot storage capabilities and compatibility with Ethereum blockchain interactions, showcasing it as a powerful tool for secure, user-friendly decentralized applications.
+
+
 ## Features
 
 - **Decentralized Storage**: Files are stored securely using Storacha’s Web3 storage network.
