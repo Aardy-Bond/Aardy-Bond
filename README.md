@@ -50,7 +50,7 @@ Storacha’s **speed, security, and verifiability** make it the perfect solution
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/storacha-skeleton-vault.git
+   git clone https://github.com/Aardy-Bond/Storacha-Hackathon-2024.git
    cd storacha-skeleton-vault
    ```
 
